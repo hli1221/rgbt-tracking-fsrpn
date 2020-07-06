@@ -1,7 +1,7 @@
 # FSRPN for VOT2019-RGBT
 FSRPN (Fuison SiamRPN tracker), 4th in public dataset.  
 
-Thanks to Xiao-Jun Wu*, Josef Kittler, [Tianyang Xu](https://github.com/XU-TIANYANG), Xuefeng Zhu, Yunkun Li
+Thanks to Pro. Xiao-Jun Wu*, Pro. Josef Kittler, [Dr. Tianyang Xu](https://github.com/XU-TIANYANG), Xuefeng Zhu, Yunkun Li
 
 In FSRPN, spatial attention-based fusion strategy is applied to Siamese CNN framework. The deep features extracted by ResNet-50 from RGB and infrared images, are fused by this strategy to get more accurate and more plentiful information of object. Then, these fused deep features are utilized to track object by RPN-based network.
 
