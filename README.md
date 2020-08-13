@@ -29,7 +29,7 @@ The FSRPN exploits siamese CNN framework and spatial attention-based fusion stra
 
 Please copy the model file('model.pth') to 'FSRPN/siamrpn_model/siamrpn_r50'.
 
-The pre-trained model can be downloaded in [google drive](https://drive.google.com/file/d/1xoebTW6NLzdZGEYfu4jJb5BXxcY7xvx2/view?usp=sharing) and [baidu yun](https://pan.baidu.com/s/1gH_aEKuJT-yIrXOJe4CKeA) with extraction code '4bhx'.
+The pre-trained model can be downloaded from [google drive](https://drive.google.com/file/d/1xoebTW6NLzdZGEYfu4jJb5BXxcY7xvx2/view?usp=sharing) and [baidu yun](https://pan.baidu.com/s/1gH_aEKuJT-yIrXOJe4CKeA) with extraction code '4bhx'.
 
 
 # Run tracker
