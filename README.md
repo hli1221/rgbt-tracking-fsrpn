@@ -18,7 +18,7 @@ Pytorch >= 0.4.1
 
 The FSRPN exploits siamese CNN framework and spatial attention-based fusion strategy [1] for tracking. ResNet-50 [2] is used to extract multi-layers (three layers) deep features from RGB and infrared images, respectively. Before feeding into region proposal sub-networks, these features are fused by spatial attention-based fusion strategy based on l_1-norm in each layer. Then, these fused deep features and the region proposal sub-network are utilized to RPN networks to determine the position of object. The FSRPN is based on SiamRPN++ [3].
 
-The fusion strategy comes [from DenseFuse](https://github.com/hli1221/imagefusion_densefuse).
+The fusion strategy comes from [DenseFuse](https://github.com/hli1221/imagefusion_densefuse).
 
 
 [1] Li H, Wu X J. Densefuse: A fusion approach to infrared and visible images[J]. IEEE Transactions on Image Processing, 2018, 28(5): 2614-2623.  
